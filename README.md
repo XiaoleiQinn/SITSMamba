@@ -3,6 +3,7 @@
   
 [Xiaolei Qin](https://github.com/XiaoleiQinn), [Xin Su](http://jszy.whu.edu.cn/xinsu_rs/zh_CN/index.htm), [Liangpei Zhang](http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html)
 
+<a href="https://arxiv.org/abs/2409.09673"><img src="https://img.shields.io/badge/arxiv_Paper-%23808EDC"></a>
 </div>
 
 ## :snake:Highlight

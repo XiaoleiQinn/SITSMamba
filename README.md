@@ -16,7 +16,11 @@ SITSMamba adopts Mamba for Satellite image time series classification for the fi
 
 ## :ear_of_rice:Dataset
 [PASTIS](https://github.com/VSainteuf/pastis-benchmark)<br />
-[MTLCC](https://github.com/TUM-LMF/MTLCC-pytorch)
+All the 20 classes are used for training and evaluation in our study.
+<br />
+[MTLCC](https://github.com/TUM-LMF/MTLCC-pytorch)<br />
+All the 17 classes are used for training and evaluation in our study.
+<br />
 
 ## :hammer:Environment
 You can install mamba according to the following instruction.

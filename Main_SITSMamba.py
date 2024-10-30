@@ -51,8 +51,8 @@ def main(
     setup_seed(3407)
 
     # # ---------------mtlcc dataset-----------------------------
-    traindataset = Dataset(datadir, tileids="tileids/eval.tileids")
-    valdataset = Dataset(datadir, tileids="tileids/eval.tileids")
+    traindataset = Dataset(datadir, tileids="tileids/train_fold0.tileids")
+    valdataset = Dataset(datadir, tileids="tileids/test_fold0.tileids")
     traindataloader = torch.utils.data.DataLoader(traindataset, batch_size=batchsize, shuffle=True, num_workers=workers,
                                                   pin_memory=True)
     valdataloader = torch.utils.data.DataLoader(valdataset, batch_size=batchsize, shuffle=False, num_workers=workers,

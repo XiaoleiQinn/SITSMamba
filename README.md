@@ -21,7 +21,7 @@ All the 20 classes are used for training and evaluation in our study.
 [MTLCC](https://github.com/TUM-LMF/MTLCC-pytorch)<br />
 All the 17 classes are used for training and evaluation in our study.
 <br />
-
+Please refer to GitHub - MarcCoru/MTLCC or GitHub - TUM-LMF/MTLCC-pytorch for instructions on loading the dataset and obtaining the eval.tileids.
 ## :hammer:Environment
 You can install mamba according to the following instruction.
 ```
@@ -30,6 +30,8 @@ pip install torch==2.2.1 torchvision==0.17.1 --index-url https://download.pytorc
 wget https://github.com/state-spaces/mamba/releases/download/v1.2.2/mamba_ssm-1.2.2+cu122torch2.2cxx11abiFALSE-cp38-cp38-linux_x86_64.whl
 pip install mamba_ssm-1.2.2+cu122torch2.2cxx11abiFALSE-cp38-cp38-linux_x86_64.whl
 ```
+
+
 
 ## :blue_heart:Thanks
 The ConvBlock is from [UTAE](https://github.com/VSainteuf/utae-paps/blob/main/src/backbones/utae.py).
